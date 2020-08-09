@@ -59,7 +59,7 @@ int main()
     A.setwidth(width);
     area=A.area();
     perimeter=A.perimeter();
-    cout<<"AREA is :"<<area<<endl;
+    cout<<"AREA is  :"<<area<<endl;
     cout<<"PERIMETER is :"<<perimeter<<endl;
     return 0;
 }
