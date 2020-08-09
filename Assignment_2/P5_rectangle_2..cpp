@@ -90,7 +90,7 @@ public:
 
     void Area() {
         this->area=length*width;
-        cout<<"AREA is : "<<area<<endl;
+        cout<<"AREA is  : "<<area<<endl;
     }
     void Perimeter()
     {
