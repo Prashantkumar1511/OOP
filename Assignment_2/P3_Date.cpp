@@ -17,7 +17,7 @@ public:
         }
         else {
             cout<<"WRONG DAY INPUT!"<<endl;
-        }
+         }
     }
     void setmonth(int month) {
         if (month>=1&&month<=12) {
