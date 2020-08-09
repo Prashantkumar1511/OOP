@@ -9,7 +9,8 @@ void box(int n)
                 cout<<"*";
                else
                 cout<<" ";
-        cout<<"\n";}
+        cout<<"\n";
+    }
 }
 void oval(int n)
 {
