@@ -22,8 +22,7 @@ public:
 		int x;
 		cout<<"Enter the credit balance!"<<endl;
 		cin>>x;
-		balance=balance+x;
-	}
+		balance=balance+x;}
 	void debit()
 	{
 		int y;
