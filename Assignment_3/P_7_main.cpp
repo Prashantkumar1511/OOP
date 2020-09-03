@@ -9,7 +9,7 @@ int main()
     string part_num,discription;
   
    
-        cout<<"Enter products Part number :  ";
+        cout<<"Enter product's Part number :  ";
         cin>>part_num;
         A.setPart_num(part_num);
         cout<<"Enter Product's quantity :  ";
