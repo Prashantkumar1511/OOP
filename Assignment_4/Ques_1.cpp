@@ -6,7 +6,7 @@ amount of time. Similarly, placing common functionality in a single superclass,
 rather than duplicating the code in multiple unrelated classes,
 helps prevent the same errors from appearing in multiple source-code files.
 If errors occur in the common functionality of the superclass/Parent Class,
-the software developer needs to modify only the superclass/Parent Class.
+the software developer needs to modify only the super/Parent Class.
 
 
 */
